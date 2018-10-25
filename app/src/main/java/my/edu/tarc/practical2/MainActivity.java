@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String MESSAGE_TAG = "my.edu.tarc.MESSAGE";
+    public static final String MESSAGE_TAG = "my.edu.tarc.MESSAGE";
     private static final int REQUEST_REPLY_CODE = 1;
 
 
